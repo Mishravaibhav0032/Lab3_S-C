@@ -63,9 +63,6 @@ The above three policies were grouped into a **Policy Initiative** called `Maple
 
 ## 🎥 Video Demo
 
-[🔗 Watch the 10-minute demo video here](https://your-demo-link.com)
-
-> Includes walkthrough of scenario, policy creation, initiative assignment, and test results.
 
 ## 🚧 Challenges Faced
 
@@ -82,3 +79,6 @@ The above three policies were grouped into a **Policy Initiative** called `Maple
 ---
 
 ✅ **Lab Completed Successfully**
+
+**Name : -Vaibhav Mishra**
+**Student ID :- 041165850**
