@@ -1,0 +1,17 @@
+{
+  "properties": {
+    "displayName": "Only Canada Central Region",
+    "policyType": "Custom",
+    "mode": "All",
+    "description": "Denies deployment of any resources outside the Canada Central region.",
+    "policyRule": {
+      "if": {
+        "field": "location",
+        "notEquals": "canadacentral"
+      },
+      "then": {
+        "effect": "deny"
+      }
+    }
+  }
+}
