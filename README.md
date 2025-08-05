@@ -80,6 +80,6 @@ The above three policies were grouped into a **Policy Initiative** called `Maple
 
 ✅ **Lab Completed Successfully**
 
-**Name : -Vaibhav Mishra**/n
+**Name : -Vaibhav Mishra**
 
 **Student ID :- 041165850**
